@@ -101,9 +101,7 @@ body {
   color: hsl(228, 45%, 44%);
 }
 
-
 @media (min-width: 900px) {
-
   body {
     margin-top: 2.5em;
     min-height: 100vh;
@@ -136,7 +134,7 @@ body {
   .aside {
     position: relative;
     /* bottom: 30px; */
-    
+
     margin-left: 170px;
   }
 
@@ -213,5 +211,9 @@ body {
   .card_right {
     top: 70px;
     left: 90px;
+  }
+
+  .attribution {
+    margin-top: 10em;
   }
 }
